@@ -1,5 +1,5 @@
 ﻿// Class Assignment1 containing the Main method
-// We used Dijkstra's Shortest Path Algorithm for finding shortest path as there are no negative weights and in that case, Dijkstra's algorithm is also more efficient.
+// We used Dijkstra's Shortest Path Algorithm for finding shortest path as in this case, Dijkstra's algorithm is more efficient.
 // Because the time complexity of Dijkstra's algorithm is O(N^2) whereas of Bellman Ford's algorithm is O(N^3).
 class Assignment1
 {
